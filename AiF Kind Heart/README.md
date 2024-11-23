@@ -9,6 +9,7 @@
 - **python**
 - **pandas**
 - **numpy**
+- **scipy**
 - **datetime**
 - **yadisk**
 - **sqlite3**
